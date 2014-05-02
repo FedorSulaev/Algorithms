@@ -53,6 +53,7 @@
     <Compile Include="ArraySort\MergeTests.cs" />
     <Compile Include="IntegerMultiplication\ThirdGradeTests.cs" />
     <Compile Include="IntegerMultiplication\KaratsubaTests.cs" />
+    <Compile Include="InversionCounting\NLogNTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +62,7 @@
       <Name>Algorithms</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
