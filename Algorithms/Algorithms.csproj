@@ -43,6 +43,7 @@
     <Compile Include="IntegerMultiplication\Karatsuba.cs" />
     <Compile Include="IntegerMultiplication\ThirdGrade.cs" />
     <Compile Include="InversionCounting\NLogN.cs" />
+    <Compile Include="MatrixMultiplication\Strassen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
