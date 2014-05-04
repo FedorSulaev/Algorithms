@@ -54,6 +54,7 @@
     <Compile Include="IntegerMultiplication\ThirdGradeTests.cs" />
     <Compile Include="IntegerMultiplication\KaratsubaTests.cs" />
     <Compile Include="InversionCounting\NLogNTests.cs" />
+    <Compile Include="InversionCounting\NLogNPerformanceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
