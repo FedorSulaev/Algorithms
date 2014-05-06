@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArraySort\Merge.cs" />
+    <Compile Include="ClosestPairOfPoints\NLogN.cs" />
     <Compile Include="IntegerMultiplication\Karatsuba.cs" />
     <Compile Include="IntegerMultiplication\ThirdGrade.cs" />
     <Compile Include="InversionCounting\NLogN.cs" />
