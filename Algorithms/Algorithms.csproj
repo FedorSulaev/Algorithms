@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArraySort\Merge.cs" />
+    <Compile Include="ArraySort\QuickSort.cs" />
     <Compile Include="ClosestPairOfPoints\NLogN.cs" />
     <Compile Include="IntegerMultiplication\Karatsuba.cs" />
     <Compile Include="IntegerMultiplication\ThirdGrade.cs" />
